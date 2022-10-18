@@ -34,7 +34,7 @@ function generateMarkdown(data) {
   ${data.contribution}
   ## Testing:
   ${data.test}
-  ## Additional Info:
+  ## My Info:
   - Github: [${data.github}](https://github.com/${data.github})
   - Email: ${data.email} `;
 }
